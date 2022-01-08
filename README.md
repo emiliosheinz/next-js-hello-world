@@ -1,1 +1,1 @@
-# next-js-hello-world
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
